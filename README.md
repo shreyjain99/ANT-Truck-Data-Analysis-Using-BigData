@@ -21,6 +21,7 @@
         <li><strong>Tableau</li>
     </ul>
 
+<hr width="100%" size="2">
 
 
   <h2>Project Objectives</h2>
