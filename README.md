@@ -1,7 +1,7 @@
 <h2 align= "Left"><em>ANT-Truck-Data-Analysis-Using-BigData Repository Summary</em></h2>
 
 <div align="center">
-  <img height="200" src="https://github.com/shreyjain99/ANT-Truck-Data-Analysis-Using-BigData/blob/main/src%20files/1670071405703.png"/>
+  <img height="400" src="https://github.com/shreyjain99/ANT-Truck-Data-Analysis-Using-BigData/blob/main/src%20files/1670071405703.png"/>
 </div>
 
 <hr width="100%" size="2">
