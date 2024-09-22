@@ -1,6 +1,12 @@
-<body>
+<h2 align= "Left"><em>ANT-Truck-Data-Analysis-Using-BigData Repository Summary</em></h2>
 
-<h1>ANT Trucking Data Analysis Project</h1>
+<div align="center">
+  <img height="200" src="https://github.com/shreyjain99/ANT-Truck-Data-Analysis-Using-BigData/blob/main/src%20files/1670071405703.png"/>
+</div>
+
+<hr width="100%" size="2">
+
+<body>
 
 <h2>Project Overview</h2>
     <p>This project aims to leverage big data analytics to enhance decision-making processes in fleet management, focusing on safety improvements and operational efficiency within ANT's trucking operations. The project involves analyzing data from a trucking company, Az National Trucking (ANT), to improve safety and operational efficiency. The main focus is on processing geographic and truck fleet data to identify risk factors associated with truck drivers and vehicles</p>
@@ -13,6 +19,8 @@
         <li><strong>Optimize Fleet Operations:</strong> Analyze truck models for performance and risk factors.</li>
         <li><strong>Enhance Safety Measures:</strong> Recommend safety improvements and training for drivers.</li>
     </ul>
+
+<hr width="100%" size="2">
 
   <h2>Project Steps</h2>
 
